@@ -1,0 +1,9 @@
+@startuml
+class Bird {
+    family :String
+    specie : String
+    commomName : String
+    height : double
+    year : int
+}
+@enduml
