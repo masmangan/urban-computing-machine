@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class BirdApp {
 
     public static void main(String[] args) {
@@ -11,6 +13,10 @@ public class BirdApp {
         b.height = 25;
         b.year = 1952;  
         
+        // 
+        ArrayList<Bird> birds = new ArrayList<Bird>();
+        birds.add(b);
+
         System.out.println(b);
     }
 }
