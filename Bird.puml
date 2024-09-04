@@ -1,9 +1,17 @@
 @startuml
+
 class Bird {
-    family :String
-    specie : String
-    commomName : String
-    height : double
-    year : int
+    ~family :String
+    ~specie : String
+    ~commomName : String
+    ~height : double
+    ~year : int
+
+    +toString() : String
 }
+
+class BirdApp {
+    +{static} main(String[] args) : void
+}
+
 @enduml
