@@ -37,12 +37,17 @@ public class Bird {
     int year;
 
     /**
+     * Número de imagens.
+     */
+    int imageCount;
+
+    /**
      * Retorna um representação do pássaro em texto.
      * 
      * @return a representação dos dados do pássaro em formato de texto
      */
     @Override
     public String toString() {        
-        return String.format("%13s %20s %18s %2.1f %4d", family, specie, commomName, height, year);
+        return String.format("%13s %20s %18s %2.1f %4d %d", family, specie, commomName, height, year, imageCount);
     }
 }

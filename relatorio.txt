@@ -37,6 +37,13 @@ da coruja-buraqueira.
 em detalhes a forma com que a primeira consulta foi obtida. Acabou-se utilizando uma consulta diferente.
 Para Porto Alegre foi usada a consulta de próximidade e para Uruguaiana a consulta do município.
 * As informações sobre as ferramentas jar e javadoc são apresentadas em material online que acompanha os livros.
+* Na etapa final do projeto, notou-se que o sistema não respondia as consultas propostas na 
+especificação esboçada no Github Issues.
+* A anotação de referência para o exemplo de uso da ferramenta jar foi feita de forma incorreta.
+A referência foi recuperada pelo histórico do navegador Web.
+* A coluna de contagem de imagens foi preenchida com valores aleatórios.
+* Collections.sort() não foi usada por causa do uso de interfaces, que ainda não havia sido apresentado.
+Foi usada a ordenação pelo método da bolha.
 
 Ferramentas
 
