@@ -1,0 +1,76 @@
+Relatório de Fontes Consultadas
+
+As consultas foram registradas no Github Issues, o que facilita recuperar a memória do projeto.
+
+Horstmann e Deitel e Deitel
+
+Horstmann, Cay. Conceitos de Computação Com Java. 5th ed. Porto Alegre: Bookman, 2009.  
+Disponível em: https://primo-pmtna01.hosted.exlibrisgroup.com/permalink/f/19q7g4d/TN_cdi_proquest_ebookcentral_EBC3235345
+Consultado em 22 de setembro de 2024.
+
+Principais trechos do livro:
+Capítulo 3 Implementando Classes, Seção 3.3 Comentando a interface pública
+Capítulo 11 Entrada/Saída e Tratamento de Exceções, Seção 11.1 Lendo e gravando arquivos de texto
+
+Deitel, Paul .J.(, Harvey M. Java: Como Programar (8 Edição). São Paulo: Pearson Educación, 2010.  
+Disponível em: https://primo-pmtna01.hosted.exlibrisgroup.com/permalink/f/ui9dd6/sfx3710000001305480. 
+Consultado em 22 de setembro de 2024.
+
+Principais trechos do livro:
+Capítulo 7 Arrays e ArraylsList, Seção 7.14 Utilizando argumentos de linha de comando
+Capítulo 11, Tratamento de Exceções, Seção 11.12 try com recursos.
+Capítulo 15, Seção 15.4.2 Lendo dados a partir de um arquivo de texto sequencial
+Apêndice G Criando documentação com JavaDoc
+Apêndice H UML2
+
+Não foram localizados trechos sobre a ferramenta jar.
+
+Lições Aprendidas
+* Os parâmetros de linha de comando são gerados por ferramentas como BlueJ.
+Para obter o formato correto dos comandos foi necessário consultar a documentação.
+* Uma linha em branco deve ser mantida no arquivo de manifesto.
+* Existe pouca variação nas espécies próximas de Porto Alegre e próximas de Uruguaiana,
+apesar da distância de aproximadamente 600 Km.
+* Em Porto Alegre ocorre o avistamento da coruja-orelhuda e em Uruguaiana ocorre o avistamento
+da coruja-buraqueira.
+* Ao refazer a consulta para o segundo arquivo de dados, notou-se que não foi registrada
+em detalhes a forma com que a primeira consulta foi obtida. Acabou-se utilizando uma consulta diferente.
+Para Porto Alegre foi usada a consulta de próximidade e para Uruguaiana a consulta do município.
+* As informações sobre as ferramentas jar e javadoc são apresentadas em material online que acompanha os livros.
+
+Ferramentas
+
+Não foram utilizadas ferramentas como ChatGPT ou Copilot.
+Foram realizadas consultas no Google, com buscas por: "ler arquivo java csv", "java jar manifest".
+
+Demais Referências
+
+
+ORACLE, Using JAR Files: The Basics. In: The Java Tutorials
+Disponível em: https://docs.oracle.com/javase/tutorial/deployment/jar/basicsindex.html
+Consultado em 22 de setembro de 2024.
+
+ORACLE, Setting an Application's Entry Point In: The Java Tutorials
+Disponível em: https://docs.oracle.com/javase/tutorial/deployment/jar/appman.html
+Consultado em 22 de setembro de 2024.
+
+ORACLE, jar: In: Java Platform, Standard Edition Tools Reference
+https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jar.html
+
+PLANT UML
+Disponível em: http://www.plantuml.com
+Consultado em 22 de setembro de 2024.
+
+WIKI AVES, Espécies dos municípios em um raio de 50 km de Porto Alegre/RS
+Disponível em: https://www.wikiaves.com.br/especies.php?t=c&c=4314902&r=50&o=4
+Consultado em 22 de setembro de 2024.
+
+WIKI AVES, Espécies em Uruguaiana/RS
+Disponível em: https://www.wikiaves.com.br/especies.php?&t=c&c=4322400
+Consultado em 22 de setembro de 2024.
+
+WIKIPÉDIA, Azulão.
+Disponível em: https://pt.wikipedia.org/wiki/Azul%C3%A3o
+Consultado em 22 de setembro de 2024.
+
+
