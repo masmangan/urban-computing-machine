@@ -43,6 +43,6 @@ public class Bird {
      */
     @Override
     public String toString() {        
-        return String.format("%s %s %s %.1f %d", family, specie, commomName, height, year);
+        return String.format("%13s %20s %18s %2.1f %4d", family, specie, commomName, height, year);
     }
 }
